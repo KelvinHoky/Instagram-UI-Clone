@@ -1,6 +1,6 @@
 # Instagram Home UI Clone
 This is an INstagram Home UI Clone that i make using HTML CSS and JavaScript.
-![Project Image](img\Project image.png)
+![Project Image](img/Project%20image.png)
 You can use this as reference if you want to make an Instagram Clone.
 
 # Issue
